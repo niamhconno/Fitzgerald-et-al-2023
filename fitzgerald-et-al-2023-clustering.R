@@ -7,8 +7,8 @@
 
 library(ComplexHeatmap)
 
-# Set working directory
-setwd("D:/Work/OneDrive - Royal College of Surgeons in Ireland/Work - other/supervision-management/Claire/R")
+# Set working directory (UPDATE!!!)
+setwd("XXX/YYY")
 
 # Read in protein levels (normalised to HeLa)
 proteins <- read.csv("Protein expression_individual.csv") 
