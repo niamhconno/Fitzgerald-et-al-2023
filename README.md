@@ -7,7 +7,7 @@ Thanks to Cristiano Gutta for sharing the original PCA and LDA code.
 Save all files in the same folder, open mb_pca_calcNorthcott.m in MATLAB and run the code. [or just type mb_pca_calcNorthcott into MATLAB command line, ensuring you are in the correct folder]
 
 # 2.
-R code ("fitzgerald-et-al-2023-clustering.R") and input file ("Protein expression_individual.csv") to perform hierarchical clustering and generate Figure 1D.
+R code ("fitzgerald-et-al-2023-clustering.R") and input file ("Protein expression_individual.csv") to perform hierarchical clustering and generate Figure 1C.
 
 # 3.
-If you use this code in your research, please cite Fitzgerald et al., 2023
+If you use this code in your research, please cite Fitzgerald et al., 2023 [accepted for publication in Cell Death Disease]
